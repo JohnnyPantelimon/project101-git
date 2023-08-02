@@ -1,0 +1,9 @@
+{
+	"name": "project101-dev-adf-jp",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e1447e5d-b2b5-4460-a8f9-036b9db7dbc1",
+		"tenantId": "e8549c2e-0d2e-4560-9591-3186755fc587"
+	}
+}
